@@ -10,5 +10,5 @@
 </p>
 <p>
   Contributors:<br>
-  [Arslan Nasir](https://github.com/asveloper)
+  <a href="https://github.com/asveloper">Arslan Nasir</a>
 </p>
