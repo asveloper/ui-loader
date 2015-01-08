@@ -1,10 +1,14 @@
-If you want to use different frontend frameworks for Web and Cordova then this package is for you.
+<p>If you want to use different frontend frameworks for Web and Cordova then this package is for you.</p>
 
-It uses Bootstrap as a web frontend framework.
-http://getbootstrap.com
-
-It uses Ratchet as cordova frontend framework.
-http://goratchet.com
-
-Contributors:
-Arslan Nasir
+<p>
+  It uses Bootstrap as a web frontend framework.<br>
+  http://getbootstrap.com
+</p>
+<p>
+  It uses Ratchet as cordova frontend framework.<br>
+  http://goratchet.com
+</p>
+<p>
+  Contributors:<br>
+  [Arslan Nasir](https://github.com/asveloper)
+</p>
