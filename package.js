@@ -8,8 +8,8 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.0.2.1');
   
-  api.use('bootstrap', 'web.browser');
-  api.use('pcjpcj2:ratchet', 'web.cordova');
+  api.use('bootstrap@1.0.1', 'web.browser');
+  api.use('pcjpcj2:ratchet@2.0.2', 'web.cordova');
   
   api.addFiles('asveloper:ui-loader.js');
 });
