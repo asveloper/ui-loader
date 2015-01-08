@@ -1,8 +1,8 @@
 Package.describe({
   name: 'asveloper:ui-loader',
-  summary: 'Package to load bootstrap frontend framework for web and ratchet frontend framework for cordova.',
+  summary: 'Meteor Package to load bootstrap and ratchet frontend framework for web and cordova respectively.',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/asveloper/ui-loader.git'
 });
 
 Package.onUse(function(api) {
