@@ -1,7 +1,7 @@
 Package.describe({
   name: 'asveloper:ui-loader',
   summary: 'Meteor Package to load bootstrap and ratchet frontend framework for web and cordova respectively.',
-  version: '1.0.0',
+  version: '1.0.1',
   git: 'https://github.com/asveloper/ui-loader.git'
 });
 
