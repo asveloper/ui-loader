@@ -1,5 +1,7 @@
 <p>If you want to use different frontend frameworks for Web and Cordova then this package is for you.</p>
 
+<p>It only loads Bootstrap when application is accessed through web and similarly it only loads Ratchet when application is accessed through cordova.</p>
+
 <p>
   It uses Bootstrap as a web frontend framework.<br>
   http://getbootstrap.com
